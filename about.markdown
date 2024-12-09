@@ -4,4 +4,5 @@ title: About
 ---
 # About page
 
-This page tells you a little bit about me.
+## 所属
+東京科学大学のどこか

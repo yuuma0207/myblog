@@ -5,5 +5,5 @@
 layout: default
 title: Home
 ---
-<h1>{{ "Hello world!" | downcase }}</h1>
+<h1>{{ "こんにちは。Webサイトを開設しました" | downcase }}</h1>
 
